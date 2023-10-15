@@ -1,6 +1,7 @@
-import { createRouter, createWebHistory} from "vue-router";
-import Home from "../pages/Home.vue"
-import Post from "../pages/Post.vue";
+import { createRouter, createWebHistory } from 'vue-router'
+
+import Home from '../pages/Home.vue'
+import Post from '../pages/Post.vue'
 
 const routes = [
     {
